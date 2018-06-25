@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\script_appodeal_map.cs">
+    <Files>
+      <File FileName="Assets\Scripts\script_appodeal_video.cs" Line="11" Column="3" />
+      <File FileName="Assets\Scripts\script_appodeal_map.cs" Line="17" Column="18" />
+      <File FileName="Assets\Scripts\script_appodeal.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\script_appodeal_level.cs" Line="11" Column="3" />
+      <File FileName="Assets\Scripts\script_appodeal_garage.cs" Line="11" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
